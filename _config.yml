@@ -17,19 +17,19 @@ avatar: /images/avatar.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  #dribbble:
   email: brianwroper@gmail.com
-  facebook:
+  #facebook:
   flickr: https://www.flickr.com/photos/brianroper/
   github: barryclark/jekyll-now
-  instagram: roperb
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: roperb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  #instagram: roperb
+  #linkedin:
+  #interest:
+  #rss: # just type anything here for a working RSS icon
+  #twitter: roperb
+  #stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: channel/UCrL3NDkk5HZuLsStn__VnYw # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  #googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
